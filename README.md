@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on RISC-V Software.
+- 🌱 I’m currently learning about kernels.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/swapnilagarwal39/)
